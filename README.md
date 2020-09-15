@@ -60,11 +60,3 @@ anyone may be able to see the name of one or more private repositories.
    of the README) to force it to regenerate the stats images.
 6. Check out the images that have been created in the `generated` folder.
 5. Star this repo if you like it!
-
-
-# Related Projects
-
-- Inspired by a desire to improve upon
-  [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Makes use of [GitHub Octicons](https://primer.style/octicons/) to precisely
-  match the GitHub UI
